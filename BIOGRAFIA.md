@@ -46,9 +46,8 @@ Currently, I do not have any completed personal projects, but I am working to de
 
 ## Contato / Contact
 
-- **LinkedIn**: [https://www.linkedin.com/in/lucas-taveira-fonseca-2b1315199/](#)
-- **GitHub**: [https://github.com/HopWei](#)
-- **Email**: dvlfsnc22@gmail.com
+<a href="https://www.linkedin.com/in/lucas-taveira-fonseca-2b1315199" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:dvlfnsc22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 Sinta-se à vontade para entrar em contato comigo ou acompanhar minha jornada de transição para o desenvolvimento de software e cibersegurança!<br><br>
 Feel free to reach out to me or follow my journey transitioning into software development and cybersecurity!
